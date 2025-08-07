@@ -1,5 +1,5 @@
 <properties>
-    <sonar.projectKey>your_project_key</sonar.projectKey>
-    <sonar.organization>your_organization</sonar.organization>
+    <sonar.projectKey>afde787d166687b07316312de1bd7cad2ef7ce25</sonar.projectKey>
+    <sonar.organization>RKSandbox/JavaDevops</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
